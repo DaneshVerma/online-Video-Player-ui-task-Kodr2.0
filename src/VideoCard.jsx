@@ -9,9 +9,20 @@ const VideoCard = ({ video }) => (
         className='w-full aspect-video rounded-xl object-cover'
       />
       <div className='p-3'>
-        <h3 className='font-medium text-sm line-clamp-2 mb-1'>{video.title}</h3>
-        <p className='text-gray-600 text-sm'>{video.channel}</p>
-        <p className='text-gray-600 text-sm'>{video.views}</p>
+        <div className='flex gap-2'>
+          <img
+            src={video.channelLogo}
+            alt={video.channel}
+            className='w-8 h-8 rounded-full object-cover'
+          />
+          <div>
+            <h3 className='font-medium text-sm line-clamp-2 mb-1'>
+              {video.title}
+            </h3>
+            <p className='text-gray-600 text-sm'>{video.channel}</p>
+            <p className='text-gray-600 text-sm'>{video.views}</p>
+          </div>
+        </div>
       </div>
     </Link>
   </div>

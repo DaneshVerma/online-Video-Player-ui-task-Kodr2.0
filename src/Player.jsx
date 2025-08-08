@@ -1,7 +1,6 @@
 import { useParams, Link } from "react-router";
 import videos from "./data/videos.json";
 import CommentSection from "./CommentSection";
-import SearchBar from "./SearchBar";
 import RelatedVideo from "./RelatedVideo";
 import Header from "./components/Header";
 
@@ -39,7 +38,11 @@ const Player = () => {
               <div className='flex items-center justify-between border-b border-gray-200 pb-4 mb-4'>
                 <div>
                   <div className='flex items-center space-x-2'>
-                    <div className='w-10 h-10 rounded-full bg-gray-200'></div>
+                    <img
+                      src={video.channelLogo}
+                      alt={video.channel}
+                      className='w-10 h-10 rounded-full object-cover'
+                    />
                     <div>
                       <p className='font-medium'>{video.channel}</p>
                       <p className='text-sm text-gray-600'>{video.views}</p>

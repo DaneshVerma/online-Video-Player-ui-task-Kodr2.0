@@ -13,8 +13,17 @@ const RelatedVideo = ({ video }) => (
     />
     <div className='flex-1 min-w-0'>
       <h3 className='text-sm font-medium line-clamp-2'>{video.title}</h3>
-      <p className='text-xs text-gray-600 mt-1'>{video.channel}</p>
-      <p className='text-xs text-gray-600'>{video.views}</p>
+      <div className='flex items-center gap-2 mt-1'>
+        <img
+          src={video.channelLogo}
+          alt={video.channel}
+          className='w-6 h-6 rounded-full object-cover'
+        />
+        <div>
+          <p className='text-xs text-gray-600'>{video.channel}</p>
+          <p className='text-xs text-gray-600'>{video.views}</p>
+        </div>
+      </div>
     </div>
   </Link>
 );

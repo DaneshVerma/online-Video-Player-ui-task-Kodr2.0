@@ -1,0 +1,141 @@
+[
+  {
+    "id": "1",
+    "title": "React JS Full Course 2023 | Build an App and Master React in 1 Hour",
+    "thumbnail": "https://i.ytimg.com/vi/b9eMGE7QtTk/hq720.jpg",
+    "videoId": "b9eMGE7QtTk",
+    "embedUrl": "https://www.youtube.com/embed/b9eMGE7QtTk",
+    "channel": "JavaScript Mastery",
+    "views": "1.4M views",
+    "description": "Master React in this comprehensive course! We'll build a modern application while covering core concepts like hooks, state management, routing, and best practices.",
+    "comments": [
+      {
+        "user": "JaneDoe",
+        "text": "This course helped me land my first dev job!"
+      },
+      {
+        "user": "ReactLearner",
+        "text": "Perfect pace and explanation. Thanks!"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Next.js 13 Crash Course | App Router, React Server Components & More",
+    "thumbnail": "https://i.ytimg.com/vi/Y6KDk5iyrYE/hq720.jpg",
+    "videoId": "Y6KDk5iyrYE",
+    "embedUrl": "https://www.youtube.com/embed/Y6KDk5iyrYE",
+    "channel": "Traversy Media",
+    "views": "892K views",
+    "description": "Learn the newest features in Next.js 13 including the revolutionary App Router, React Server Components, and improved data fetching methods.",
+    "comments": [
+      { "user": "NextDev", "text": "Brad's tutorials are always top notch!" },
+      {
+        "user": "WebBuilder",
+        "text": "Finally understanding server components!"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "TypeScript Tutorial for Beginners | Crash Course",
+    "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hq720.jpg",
+    "videoId": "d56mG7DezGs",
+    "embedUrl": "https://www.youtube.com/embed/d56mG7DezGs",
+    "channel": "Programming with Mosh",
+    "views": "1.1M views",
+    "description": "Learn TypeScript from scratch! This comprehensive tutorial covers types, interfaces, generics, and everything you need to know to get started with TypeScript.",
+    "comments": [
+      {
+        "user": "TypeMaster",
+        "text": "Mosh explains complex concepts so well!"
+      },
+      {
+        "user": "JSConverter",
+        "text": "Finally making the switch to TypeScript!"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Tailwind CSS Full Course 2023 | Build and Deploy a Modern Website",
+    "thumbnail": "https://i.ytimg.com/vi/tS7upsfuxmo/hq720.jpg",
+    "videoId": "tS7upsfuxmo",
+    "embedUrl": "https://www.youtube.com/embed/tS7upsfuxmo",
+    "channel": "Coding Lab",
+    "views": "456K views",
+    "description": "Master Tailwind CSS by building a stunning modern website. Learn utility classes, responsive design, dark mode, and advanced animations.",
+    "comments": [
+      { "user": "CSSNinja", "text": "Never going back to regular CSS!" },
+      {
+        "user": "WebDesigner",
+        "text": "This transformed my development workflow."
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "MERN Stack Tutorial | Build a Social Media App",
+    "thumbnail": "https://i.ytimg.com/vi/VsUzmlZfYNg/hq720.jpg",
+    "videoId": "VsUzmlZfYNg",
+    "embedUrl": "https://www.youtube.com/embed/VsUzmlZfYNg",
+    "channel": "Code with Antonio",
+    "views": "723K views",
+    "description": "Build a full-stack social media application using MongoDB, Express, React, and Node.js. Includes authentication, real-time updates, and image uploads.",
+    "comments": [
+      { "user": "FullStackDev", "text": "Best MERN stack tutorial out there!" },
+      {
+        "user": "MongoMaster",
+        "text": "Finally understood how everything connects."
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Docker Crash Course for Beginners",
+    "thumbnail": "https://i.ytimg.com/vi/pTFZFxd4hOI/hq720.jpg",
+    "videoId": "pTFZFxd4hOI",
+    "embedUrl": "https://www.youtube.com/embed/pTFZFxd4hOI",
+    "channel": "DevOps Journey",
+    "views": "329K views",
+    "description": "Learn Docker fundamentals in this practical course. Covers containers, images, Docker Compose, and deployment best practices.",
+    "comments": [
+      { "user": "ContainerPro", "text": "Docker finally makes sense!" },
+      {
+        "user": "CloudArchitect",
+        "text": "Great introduction to containerization."
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Build a Stunning Portfolio Website | React + Three.js",
+    "thumbnail": "https://i.ytimg.com/vi/0fYi8SGA20k/hq720.jpg",
+    "videoId": "0fYi8SGA20k",
+    "embedUrl": "https://www.youtube.com/embed/0fYi8SGA20k",
+    "channel": "Creative Coder",
+    "views": "245K views",
+    "description": "Create an impressive 3D portfolio website using React and Three.js. Learn about 3D animations, effects, and responsive design.",
+    "comments": [
+      {
+        "user": "3DArtist",
+        "text": "This took my portfolio to the next level!"
+      },
+      { "user": "WebGL_Fan", "text": "Amazing combination of web and 3D!" }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Redux Toolkit Tutorial | Modern State Management",
+    "thumbnail": "https://i.ytimg.com/vi/iBUJVy8phqw/hq720.jpg",
+    "videoId": "iBUJVy8phqw",
+    "embedUrl": "https://www.youtube.com/embed/iBUJVy8phqw",
+    "channel": "Redux Master",
+    "views": "567K views",
+    "description": "Master modern state management with Redux Toolkit. Learn about slices, thunks, RTK Query, and best practices for large applications.",
+    "comments": [
+      { "user": "StateManager", "text": "Finally Redux clicks for me!" },
+      { "user": "ReactPro", "text": "RTK Query is a game changer." }
+    ]
+  }
+]

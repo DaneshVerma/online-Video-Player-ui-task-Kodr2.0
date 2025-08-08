@@ -1,5 +1,80 @@
 [
   {
+    "id": "9",
+    "title": "2.0 Job Ready AI Cohort Launch | Web Dev + DSA + Gen AI + Aptitude",
+    "thumbnail": "https://i.ytimg.com/vi/xGtcHcPVb0o/hqdefault.jpg",
+    "videoId": "xGtcHcPVb0o",
+    "embedUrl": "https://www.youtube.com/embed/xGtcHcPVb0o?si=39qLpl9_OOSTEuty",
+    "channel": "Sheryians Coding School",
+    "views": "157K views",
+    "description": "This is not just a course. It's your shortcut to landing a tech job.Full Stack Web Dev. DSA. Aptitude. All in one AI-boosted program",
+    "comments": [
+      { "user": "JSLearner", "text": "Sheriyans way of teaching is amazing!" },
+      { "user": "WebDev2023", "text": "Best JavaScript course in Hindi!" }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Framer Motion Tutorial – Master React Animations (Beginner to Advanced)",
+      "thumbnail": "https://i.ytimg.com/vi/JALCoY9MQg8/hqdefault.jpg",
+
+    "videoId": "JALCoY9MQg8",
+    "embedUrl": "https://www.youtube.com/embed/JALCoY9MQg8",
+    "channel": "Sheryians Coding School",
+    "views": "89K views",
+    "description": "Learn GSAP (GreenSock Animation Platform) from basics to advanced. Create stunning web animations with this comprehensive tutorial in Hindi.",
+    "comments": [
+      {
+        "user": "AnimationPro",
+        "text": "Finally a good GSAP tutorial in Hindi!"
+      },
+      {
+        "user": "CreativeDev",
+        "text": "Your examples make it so easy to understand."
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "title": "College Rules Are DESTROYING Your Future | Must Watch for Students!",
+    "thumbnail": "https://i.ytimg.com/vi/63IGdvpsNK0/hqdefault.jpg",
+    "videoId": "63IGdvpsNK0",
+    "embedUrl": "https://www.youtube.com/embed/63IGdvpsNK0",
+    "channel": "Sheryians Coding School",
+    "views": "246K views",
+    "description": "In this eye-opening video, I’m exposing how outdated college policies are silently killing your career before it even begins. If you're a student struggling with internships, NOC issues, or fake trainings — this is a must-watch.",
+    "comments": [
+      {
+        "user": "CSSMaster",
+        "text": "Perfect explanation of complex CSS concepts"
+      },
+      {
+        "user": "FrontEndLearner",
+        "text": "Best CSS course I've found in Hindi"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "title": "DSA Domination Cohort Launch | Language Independent | Trailer",
+    "thumbnail": "https://i.ytimg.com/vi/hcxdmWyQEKY/hqdefault.jpg",
+    "videoId": "hcxdmWyQEKY",
+    "embedUrl": "https://www.youtube.com/embed/hcxdmWyQEKY",
+    "channel": "Sheryians Coding School",
+    "views": "184K views",
+    "description": "Ready to conquer those tricky coding rounds? Our exclusive DSA Independent Batch is launching soon – this trailer gives you a sneak peek into mastering Data Structures like Arrays, Linked Lists, Trees, Graphs, and Algorithms including Dynamic Programming, Sorting, Searching, and System Design.",
+    "comments": [
+      {
+        "user": "BackendDev",
+        "text": "Finally understood Node.js concepts clearly!"
+      },
+      {
+        "user": "MERNdev",
+        "text": "Your teaching style makes complex topics simple."
+      }
+    ]
+  },
+  {
     "id": "1",
     "title": "React JS Full Course 2023 | Build an App and Master React in 1 Hour",
     "thumbnail": "https://i.ytimg.com/vi/b9eMGE7QtTk/hq720.jpg",
